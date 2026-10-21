@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-groq
+langchain-ollama
+ipykernel
+python-dotenv
